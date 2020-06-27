@@ -4,7 +4,7 @@
 
    pkg install python3
 
-   git clone (link) 
+   git clone https://github.com/suresh5545/SBomb
 
    cd SBomb
 
