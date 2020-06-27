@@ -256,7 +256,7 @@ def banner():
 count_inf = 0
 
 
-def in finite(pn, dl, ch, max):
+def infinite(pn, dl, ch, max):
     global count_inf
     while True:
         while os.path.exists('proc.xxx'):
