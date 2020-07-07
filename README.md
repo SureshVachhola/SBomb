@@ -7,6 +7,7 @@
    git clone https://github.com/suresh5545/SBomb
 
    cd SBomb
+   
    pip3 install -r requirements.txt
 
    python3 SBomb.py
